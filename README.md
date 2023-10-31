@@ -1,5 +1,5 @@
 # Face Recognition and Features Extractor
-The idea of this project is to detect faces from a source, recognize the person and extract some possible features, like: Age, Ethnicity, Sex, etc.
+The idea of this project is to detect faces from a source, recognize the person and extract some possible features, like: Age, Ethnicity, Sex, Emotions, etc.
 
 So the project is segmented in three parts.
 
@@ -15,3 +15,7 @@ So the project is segmented in three parts.
 
 ## 3 - Features Extractor
 - TBD
+
+Useful links:
+- https://link.springer.com/article/10.1007/s42979-020-00325-6
+- https://www.mdpi.com/1424-8220/20/13/3765
