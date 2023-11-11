@@ -19,3 +19,4 @@ So the project is segmented in three parts.
 Useful links:
 - https://link.springer.com/article/10.1007/s42979-020-00325-6
 - https://www.mdpi.com/1424-8220/20/13/3765
+https://www.kaggle.com/datasets/fareselmenshawii/face-detection-dataset/
